@@ -146,6 +146,5 @@ The application will be containerized using **Docker** to ensure a consistent en
 
 ## Known Issues & Future Features
 Currently, there are no major known issues. Future enhancements may include:
-- Advanced filtering options (e.g., by stock sector, trade value).
 - User notifications for new trades.
 - Ranking politicians by stock market earnings.
