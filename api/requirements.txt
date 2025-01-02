@@ -1,0 +1,12 @@
+mysqlclient
+django
+djangorestframework
+django-stubs
+django-filter
+django-pytest
+pytest
+mysql-connector-python
+pytest-django
+pylint
+pylint-django
+gunicorn
